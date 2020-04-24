@@ -87,26 +87,26 @@ This program is designed by me, Fernando Zamora, and it is intended to be taught
 ### 4. Palindrome
 ### 5. Random numbers
 
-## Week 8 -- Math and Algoritms
+## Week 9 -- Math and Algoritms
 ### 1. Avg, Median, Sum, Min, Max
 ### 2. Distance between 2 points
 ### 3. Sets - Intersection, Union, Difference
 ### 4. Convert an array into a set
 
-## Week 9 -- Creating a node project
+## Week 10 -- Creating a node project
 ### 1. Create
 ### 2. Installing Modules
 ### 3. Importing Modules
 ### 4. Homework
 
-## Week 9 -- Using (Web) APIs
+## Week 11 -- Using (Web) APIs
 ### 1. Using fetch
 ### 2. Understanding HTTP
 ### 3. Using Axios
 ### 4. Calling 3 APIs and displaying the results
 ### 5. Homework
 
-## Week 10 -- DOM Manipulation 
+## Week 12 -- DOM Manipulation 
 ### 1. CSS Primer
 ### 2. HTML Primer
 ### 3. Forms
@@ -115,11 +115,11 @@ This program is designed by me, Fernando Zamora, and it is intended to be taught
 ### 6. Using Java to render data
 ### 7. Homework
 
-## Week 11 -- DOM Manipulation Part 2
+## Week 13 -- DOM Manipulation Part 2
 ### 1. Using Templates
 ### 2. TBD
 
-## Week 12 -- Mongo and Nodeserver api
+## Week 14 -- Mongo and Nodeserver api
 ### 1. Mongo DB
 ### 2. Mongoose
 ### 3. Creating a GET endpoint
@@ -127,13 +127,13 @@ This program is designed by me, Fernando Zamora, and it is intended to be taught
 ### 5. Using POSTMAN
 ### 6. Homework
 
-## Week 13 -- Ideas for Capstone Project
+## Week 15 -- Ideas for Capstone Project
 ### 1. Demo some ideas for capstone
 ### 2. Start thinking of something viable
 ### 3. Homework - submit project idea
 ### 4. Get approval and review 
 
-# Week 14-15 Complete Capstone Project
+# Week 16 Complete Capstone Project
 
 
 
