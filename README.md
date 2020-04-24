@@ -4,6 +4,11 @@ This is a course designed for total new programmers that know nothing or next to
 
 This program is designed by me, Fernando Zamora, and it is intended to be taught primarily in a virtual teleconference environment like zoom or skype.  It could potentially be taught in a classroom, but it's primary design is for teaching in online.
 
+This course will be taught by Fernando Zamora.
+Fernando Zamora is a software engineer with 20 years experience.  He holds
+a B.S. in Computer Science from Tarleton State University and a Masters of Science from Texas A&M University Central Texas.  Fernando also has over 800
+hours tutoring experience in many programming languages to include JavaScript, Python, C#, C and C++, as well as many hours teaching experience in topics related to software development.
+
 ---
 
 ## Course Outline
