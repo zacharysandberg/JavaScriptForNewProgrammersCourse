@@ -59,11 +59,11 @@ This program is designed by me, Fernando Zamora, and it is intended to be taught
 ### 4. Homework
 
 ## Week 5 - Objects Revisited
-### 1. Anonumous
+### 1. Anonymous Objects
 ### 2. Constructor functions
 ### 3. Properties
 ### 4. Prototypical Chain
-### 5. Instance vs. 
+### 5. Instance vs. Static Properties Methods
 
 ## Week 6 - More Function Arrays
 ### 1. Map
