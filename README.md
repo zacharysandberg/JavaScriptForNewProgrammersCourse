@@ -5,7 +5,7 @@
 - This means you pay nothing upfront before or after
 - There are no upsells and no gimmicks
 - Clases will begin Sunday May 10 from 2PM-5PM.  This schedule is tentative depending on feedback I get from student candidates.
-- If you are interested please shoot me an email at fernandozamoraj@hotmail.com.
+- If you are interested please shoot me an email at beginningprogrammer.com@gmail.com.
 
 This is a course designed for total new programmers that know nothing or next to nothing about JavaScript.
 
