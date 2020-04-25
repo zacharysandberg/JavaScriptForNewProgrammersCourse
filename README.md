@@ -1,6 +1,12 @@
 ![JS Logo](https://raw.githubusercontent.com/fernandozamoraj/JavaScriptForNewProgrammersCourse/master/Media/jslogo.png)
 # JavaScript for New Programmers
 
+- Enrollment is free - it's a way for me to do I love to do... teach and also a way to give back
+- This means you pay nothing upfront before or after
+- There are no upsells and no gimmicks
+- Clases will begin Sunday May 10 from 2PM-5PM.  This schedule is tentative depending on feedback I get from student candidates.
+- If you are interested please shoot me an email at fernandozamoraj@hotmail.com.
+
 This is a course designed for total new programmers that know nothing or next to nothing about JavaScript.
 
 This program is designed by me, Fernando Zamora, and it is intended to be taught primarily in a virtual teleconference environment like zoom or skype.  It could potentially be taught in a classroom, but it's primary design is for teaching in online.
