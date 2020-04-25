@@ -4,6 +4,8 @@
 
 ##Install git for your appropriate OS (Linux, Mac or Windows) from https://git-scm.com/downloads
 -- Documentation at https://git-scm.com/doc
+-- Setup your credentials locally using these instructions https://confluence.atlassian.com/bitbucket/configure-your-dvcs-username-for-commits-950301867.html
+
 
 ##Install node from https://nodejs.org/en/download/
 
