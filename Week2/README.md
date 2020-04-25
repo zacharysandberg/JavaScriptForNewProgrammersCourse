@@ -83,25 +83,54 @@ console.log(sum2)
 - examples with strings;  firstName.compareLocale("john") === 0;
 
 ```
-let firstName = "john";
-let age = 43
+    let firstName = "johny"
+    let age = 44
 
-if(age >= 43 && firstName.compareLocale("john")){
-    console.log("You're too old for this John!")
-}
-else if(age >= 43 || firstName.compareLocale("steve")){
-    console.log(firstName + " you're too old for this!")
-}
-else if(age > 43{
-    console.log("you met the age requirements!")
-}
-else{
-    console.log("not sure what to do here")
-}
+    if(age >= 43 && firstName.localeCompare("john") == 0){
+        console.log("You're too old for this John!")
+    }
+    else if(age >= 43 || firstName.localeCompare("steve") == 0){
+        console.log(firstName + " you're too old for this!")
+    }
+    else if(age > 43){
+        //Will this ever execute? Under what conditions
+        console.log("you met the age requirements!")
+    }
+    else{
+        console.log("not sure what to do here")
+    }
 ```
 - boolean operators ==, ===, <, >, >=, <=, 
 - Condition Join Operators && (AND), || (OR)
  
 ## Objects
 
+Javascript is arguably an object oriented language.  
+
+That means that you can created objects.
+
+What is an object?
+
+An object is a user defined type that may have data and behavior.
+
+The data is in the form properties and methods
+
+Method is a fancy term for a function that belongs to an object.
+
+Example:
+
+```
+let person = {
+
+    firstName: "Joe",
+    lastName: "Smith",
+    fullName: function(){
+        return this.firstName + " " + this.lastName
+    }
+}
+
+person.firstName = "John"; //change name to john
+console.log(person.fullName());
+
+```
 ## Homework

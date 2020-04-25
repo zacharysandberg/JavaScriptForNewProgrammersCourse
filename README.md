@@ -90,7 +90,12 @@ hours tutoring experience in many programming languages to include JavaScript, P
 ### 2. Function Arguments
 ### 3. Duck Typing
 ### 4. Truthy and Falsey
-### 5. Dynamic aspects
+### 5. Dynamic aspects 
+- undefined properties
+- defined properties
+- accesing propertys using square brackets
+- accepting any type in a function
+
 ### 6. == vs. ===
 
 ## Week 8 -- Algorithms
