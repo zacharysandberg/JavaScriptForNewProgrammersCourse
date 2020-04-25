@@ -134,3 +134,5 @@ console.log(person.fullName());
 
 ```
 ## Homework
+
+### Read the homework.md file in this same folder and follow the instructions
