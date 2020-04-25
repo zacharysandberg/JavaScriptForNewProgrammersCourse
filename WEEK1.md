@@ -8,14 +8,13 @@
         Course load is designed to be done on the Weekend.  
         Approximately 3 hours per week of class time.
         You can expect to spend at least 10 hours outside of class on assignments.
-        The sessions will be recorded for publishing
     Setting the requirements
         You must be a HS Grad or GED to take this course.
         You must own a laptop with at least 8GB of memory, Windows or Mac or Linux.
         You must have a highspeed internet connection.
         We use the honesty policy for the HS Grad and GED requirement.
         No HS Students allowed for this course.  Exceptions may be made but the reason must be exceptional.
-    Providing brief and outline of the course
+    Providing brief outline of the course
         We will meet for 12 Weeks.
         The outline is prepared below on this README
 
@@ -30,7 +29,8 @@
 ## 3. Install Visual Studio Code
    - Quick overview
    - Plugins for Visual Studio Code
-   - Some necessary plug ins
+   - Some necessary plug 
+   - https://code.visualstudio.com/
 
 ## 4. Install Node.js
     Some quick overview of node

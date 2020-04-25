@@ -1,0 +1,7 @@
+-- git clone [your repsitory]
+-- cd [your repository]
+-- make any changes like modify files or add new files
+-- git add .
+-- git commit -m "I made this change ... description of my change"
+-- git push origin master
+-- git pull upstream master
