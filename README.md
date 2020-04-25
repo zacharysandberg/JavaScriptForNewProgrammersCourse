@@ -1,3 +1,4 @@
+[JS Logo](https://raw.githubusercontent.com/fernandozamoraj/JavaScriptForNewProgrammersCourse/blob/master/Media/jslogo.png)
 # JavaScript for New Programmers
 
 This is a course designed for total new programmers that know nothing or next to nothing about JavaScript.
