@@ -42,21 +42,27 @@ This command allows your to change from your branch to master
 This command allows your to move from a branch (e.g. master) to new/branch
 
 - git push origin new/branch
+
 This command allows your push your changes to the central repo (github)
 
 - git pull
+
 This command combines fetch and merge into your current branch from the central repo (github)
 
 - git pull origin master
+
 This command makes it explicit to pull. In some cases there may not be a default for git pull so you have to be specific about which remote and branch to pull
 
 - git remote
+
 This command shows you your remotes (remotes are your central repos. i.e. github)
 
 - git remote -v
+
 Get detailed information about your remotes
 
 - git branch
+
 Shows you which branches you have and which branch you are currently in
 
 - git merge master
