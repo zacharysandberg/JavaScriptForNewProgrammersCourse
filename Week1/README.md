@@ -12,11 +12,11 @@
 
 ## Fork this repository and then clone it from your repository
 
-## Keep your for up to date by adding an upstream
+## Keep your fork up to date by adding an upstream
 - Instructions are here on how to do that https://stefanbauer.me/articles/how-to-keep-your-git-fork-up-to-date 
 
 ## Run the helloWorld.js program in Week1 folder
--- node hellowWorld.js
+- node hellowWorld.js
 
 
 
