@@ -19,10 +19,12 @@ along the path starting from the root
 pwd    #print the full path of your current directory
 
 - ls
+- dir (windows)
 
 list all files and directories under the current directory
 
 - ls -al 
+
 
 list a detailed list of files and directories in your current directory
 
