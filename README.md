@@ -12,6 +12,8 @@ This is a course designed for total new programmers that know nothing or next to
 
 This program is designed by me, Fernando Zamora, and it is intended to be taught primarily in a virtual teleconference environment like zoom or skype.  It could potentially be taught in a classroom, but it's primary design is for teaching in online.
 
+---
+
 ## About Me
 
 Twitter: [@fernandozamoraj](https://twitter.com/fernandozamoraj)
@@ -27,7 +29,7 @@ Fernando also has many hours tutoring experience in many programming languages t
 
 ---
 
-## Course Outline
+# Course Outline
 
 ## Week 1 - Introduction and Setup
 ### 1. Introduction - 
