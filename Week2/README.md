@@ -1,6 +1,10 @@
 ## Variables - Primitive Types
 - similar to algebra where a variable represents a number
-- in program a variable can store different data types in memory
+- except that unlike algebra in most cases the value of our variable the value is known... i.e. we are not solving for the value but 
+instead holding the value so that we can use it
+- variables are the how programs stored data in a computer program
+- variables can hold very little data in size or very large
+- in a program a variable can store different data types in memory
 - JavaScript has 5 different primitive types 
     - number, string, Boolean, null, undefined
     - number examples: 1, 3000, 3.567
@@ -20,6 +24,13 @@
 ```
 ## Functions
 
+- functions are a small block of resuable code
+- they also serve as abstraction
+- functions should have verb names (e.g. printReport, translate, filter)
+- function may compute a value and return the result
+- or the may just do some work
+- it is best that a function does either one thing or the other (query, command)
+- functions should have a good name that tells you what they do
 - a function example
 ```
 //All functions in javascript start with the word function
@@ -45,7 +56,7 @@ let b = 20
 let c = doSomething(a,b)
 ```
 
-- Functions are a way to prouce reusable code.... for example 
+- Functions are a way to produce reusable code.... for example 
 we can resuse the function doSomething above like this
 
 ```
@@ -64,7 +75,33 @@ console.log(sum2)
 ```
 
 ## Decisions
+- In order for programs to have any inteligence they must be able
+  to make decisions
+- Javascript has the if,else if, and else statements to make decisions
+- The decisions should resolve to a boolean condition
+- examples:  age > 43, age === 43, age >= 43, age <= 43, 
+- examples with strings;  firstName.compareLocale("john") === 0;
 
+```
+let firstName = "john";
+let age = 43
+
+if(age >= 43 && firstName.compareLocale("john")){
+    console.log("You're too old for this John!")
+}
+else if(age >= 43 || firstName.compareLocale("steve")){
+    console.log(firstName + " you're too old for this!")
+}
+else if(age > 43{
+    console.log("you met the age requirements!")
+}
+else{
+    console.log("not sure what to do here")
+}
+```
+- boolean operators ==, ===, <, >, >=, <=, 
+- Condition Join Operators && (AND), || (OR)
+ 
 ## Objects
 
 ## Homework
