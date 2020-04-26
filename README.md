@@ -70,7 +70,7 @@ Fernando also has many hours tutoring experience in many programming languages t
 ### 6. Homework
 
 ## Week 3 - Strings and Array Methods
-### 1. Javascript Strings
+### 1. Javascript Strings (interpolation, methods, looping)
 ### 2. Javascript arrays
 ### 3. Javascript loops
 ### 4. Built in functions
@@ -79,15 +79,23 @@ Fernando also has many hours tutoring experience in many programming languages t
 ##  Week 4 - Functions and Arrays
 ### 1. Higher Order Functions
 ### 2. Callbacks - Objects
-### 3. IIFES
-### 4. Homework
+### 3. Arrow functions
+### 4. IIFES
+### 5. Optional parameters 
+### 6. Default values for parameters
+### 7. Homework
 
 ## Week 5 - Objects Revisited
-### 1. Anonymous Objects
+### 1. Literal Objects
 ### 2. Constructor functions
-### 3. Properties
-### 4. Prototypical Chain
-### 5. Instance vs. Static Properties Methods
+### 3. Classes
+### 4. Properties, Dynamic Properties
+### 5. Prototypical Chain
+### 6. Instance vs. Static Properties Methods
+### 7. Enhanced objects
+### 8. Object destructuring
+### 9. the mystery of this
+### 10. Homework
 
 ## Week 6 - More Function Arrays
 ### 1. Map
@@ -95,6 +103,8 @@ Fernando also has many hours tutoring experience in many programming languages t
 ### 3. Filter
 ### 4. Some
 ### 5. Closures
+### 6. Array cloning and destructuring
+### 7. Homework
 
 ## Week 7 - JS Magic 
 ### 1. Hoisting
@@ -106,8 +116,10 @@ Fernando also has many hours tutoring experience in many programming languages t
 - defined properties
 - accesing propertys using square brackets
 - accepting any type in a function
-
 ### 6. == vs. ===
+### 7. destructuring objects, arrays, enhanced objects, const, let, arrow functions
+### 8. The mistery of this
+### 9. 
 
 ## Week 8 -- Algorithms
 ### 1. Sorting
@@ -144,25 +156,18 @@ Fernando also has many hours tutoring experience in many programming languages t
 ### 6. Using Java to render data
 ### 7. Homework
 
-## Week 13 -- DOM Manipulation Part 2
-### 1. Using Templates
-### 2. TBD
+## Week 13 -- Capstone Ideas
+### 1. Capstone Ideas
+### 2. Deploy project
+### 3. Exam Review
+### 4. Homework Work on Capstone Project (instructions for capstone)
 
-## Week 14 -- Mongo and Nodeserver api
-### 1. Mongo DB
-### 2. Mongoose
-### 3. Creating a GET endpoint
-### 4. Creating a POST endpoint
-### 5. Using POSTMAN
-### 6. Homework
+## Week 14 -- Show off capstone to group
+### 1. Complete Exam
+### 2. Show off capstones
+### 3. What next?
 
-## Week 15 -- Ideas for Capstone Project
-### 1. Demo some ideas for capstone
-### 2. Start thinking of something viable
-### 3. Homework - submit project idea
-### 4. Get approval and review 
 
-# Week 16 Complete Capstone Project
 
 
 
