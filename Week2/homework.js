@@ -88,8 +88,51 @@ else{
     console.log("Test 2.1 FAILED")
 }
 
+/** 
+ * Assignment 3
+ * 
+ * Create an object that has the following attributes and properties
+ * 
+ * Attributes:
+ * color
+ * height
+ * weight
+ * 
+ * Methods
+ * category 
+ *    if lighter than 2 returns "light", 
+ *    heavier than or equal to 2 returns "medium"
+ *    Heavier than 4 - Heavy Duty
+ * 
+*/
+
+//Add your code here to create the object
+
+let vehicle = {}; //change {} to your object
+
+function print(vehicle){
+
+    console.log("======Vehicle==========")
+    //these lines check if the property is define... otherwise they print failed
+    console.log("Color:   ", vehicle.color || "FAILED!")
+    console.log("Weight:  ", vehicle.weight || "FAILED!")
+    console.log("Height:  ", vehicle.height || "FAILED!")
+
+    //in this case we check the property but since category is a function we
+    //have to check for its presence before we call it
+    console.log("Class:   ", (vehicle.category && vehicle.category()) || "FAILED!")
+}
+
+print(vehicle);
+
+vehicle.weight = 3
+print(vehicle)
+
+vehicle.weight = 6
+print(vehicle)
+
 /*
-    Assignment 3
+    Assignment 4
     Create a function that prints the following information
     Name: First Name Last Initial
     Hobbie: Favorite Hobby
