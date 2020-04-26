@@ -70,6 +70,7 @@ Fernando also has many hours tutoring experience in many programming languages t
 ### 6. Homework
 
 ## Week 3 - Strings and Array Methods
+### 0. Pop quiz
 ### 1. Javascript Strings (interpolation, methods, looping)
 ### 2. Javascript arrays
 ### 3. Javascript loops
@@ -77,6 +78,7 @@ Fernando also has many hours tutoring experience in many programming languages t
 ### 5. Homework
 
 ##  Week 4 - Functions and Arrays
+### 0. Pop quiz
 ### 1. Higher Order Functions
 ### 2. Callbacks - Objects
 ### 3. Arrow functions
@@ -86,6 +88,7 @@ Fernando also has many hours tutoring experience in many programming languages t
 ### 7. Homework
 
 ## Week 5 - Objects Revisited
+### 0. Pop quiz
 ### 1. Literal Objects
 ### 2. Constructor functions
 ### 3. Classes
@@ -98,6 +101,7 @@ Fernando also has many hours tutoring experience in many programming languages t
 ### 10. Homework
 
 ## Week 6 - More Function Arrays
+### 0. Pop quiz
 ### 1. Map
 ### 2. Reduce
 ### 3. Filter
@@ -107,6 +111,7 @@ Fernando also has many hours tutoring experience in many programming languages t
 ### 7. Homework
 
 ## Week 7 - JS Magic 
+### 0. Pop quiz
 ### 1. Hoisting
 ### 2. Function Arguments
 ### 3. Duck Typing
@@ -122,13 +127,16 @@ Fernando also has many hours tutoring experience in many programming languages t
 ### 9. 
 
 ## Week 8 -- Algorithms
+### 0. Pop quiz
 ### 1. Sorting
 ### 2. Reverse -  Array and String
 ### 3. Anagram
 ### 4. Palindrome
-### 5. Random numbers
+### 5. Module export and import
+### 6. Random numbers
 
 ## Week 9 -- Math and Algoritms
+### 0. Pop quiz
 ### 1. Avg, Median, Sum, Min, Max
 ### 2. Distance between 2 points
 ### 3. Sets - Intersection, Union, Difference
@@ -148,6 +156,7 @@ Fernando also has many hours tutoring experience in many programming languages t
 ### 5. Homework
 
 ## Week 12 -- DOM Manipulation 
+### 0. Pop quiz
 ### 1. CSS Primer
 ### 2. HTML Primer
 ### 3. Forms
@@ -157,15 +166,22 @@ Fernando also has many hours tutoring experience in many programming languages t
 ### 7. Homework
 
 ## Week 13 -- Capstone Ideas
+### 0. Pop quiz
 ### 1. Capstone Ideas
 ### 2. Deploy project
 ### 3. Exam Review
 ### 4. Homework Work on Capstone Project (instructions for capstone)
 
 ## Week 14 -- Show off capstone to group
-### 1. Complete Exam
+### 0. Complete Exam
+### 1. EOC Survey
 ### 2. Show off capstones
 ### 3. What next?
+       - With this knowledge you can expand your knowledge of CSS
+       - Expand knowledge of HTML
+       - Expand your knowledge of creating a back end with Node
+       - Learn React, Angular or Vue
+
 
 
 
