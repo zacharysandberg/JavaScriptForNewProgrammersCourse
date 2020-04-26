@@ -64,9 +64,10 @@ Fernando also has many hours tutoring experience in many programming languages t
 ## Week 2 - Javascript Part 1 
 ### 1. Variables - Primitive Types
 ### 2. Functions
-### 3. Decisions
-### 4. Objects
-### 5. Homework
+### 3. Operators =, +, -, *, /, %
+### 4. Decisions
+### 5. Objects
+### 6. Homework
 
 ## Week 3 - Strings and Array Methods
 ### 1. Javascript Strings
