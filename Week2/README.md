@@ -22,6 +22,70 @@ instead holding the value so that we can use it
     let fullName = firstName + " " + "smith"
 
 ```
+## Operators
+- Basic operators are = + - / * %
+- aka assignment addition, subtraction, division, multiplication, modulus
+- Boolean and boolean codition operators are && ||, <, <=, >, >=, !=, == 
+- and, or, greater than, greater than or equal to, lesst than, less than or equal to,
+  not equal and equal
+- all these operators can work on numbers
+- the addition operator can work on strings to join strings together
+- the assignment operator can work on strings as well to join strings together (concatenate)
+- numbers can be in variable format or literal format
+- variable example:  
+
+```
+ let age = 10
+ let firstName = "Joe"
+ let sentence  = firstName + " " + age + " years old"
+```
+
+- the sentence above is an example of variables and literals with the addition
+  operator to form a new string
+  Notice how the age gets added as string since there is a string (literal) to its left
+- variable examples with numbers 
+```
+ let age = 8
+ let ageInMonths = age * 12
+ let ageInMonthsRoundedToTen = ageInMonths - (ageInMonths%10)
+ let ageInDogYears = age * 7
+ console.log("age: ", age)
+ console.log("ageInMonths: ", ageInMonths)
+ console.log("ageInMonthsRoundToTen: ", ageInMonthsRoundedToTen) 
+ console.log("ageInDogYears: ", ageInDogYears)
+
+```
+-- Example of boolean operators and operations
+
+let t = true
+let f = false
+let t_and_f = t && f
+let t_or_f = t || f
+let t_and_t = t && t
+let t_or_t = t || t
+let gtFalse = 1 > 2
+let gtTrue = 2 > 1
+let eqFalse = 1 == 2
+let eqTrue = 1 == 1
+let ltFalse = 2 < 1
+let ltTrue = 1 < 2
+
+console.log("t: ", t)
+console.log("f: ", f)
+console.log("t_and_f: ", t_and_f)
+console.log("t_or_f: ", t_or_f)
+console.log("t_and_t: ", t_and_t)
+console.log("t_or_t: ", t_or_t)
+console.log("gtFalse: ", gtFalse)
+console.log("gtTrue: ", gtTrue)
+console.log("eqFalse: ", eqFalse)
+console.log("eqTrue: ", eqTrue)
+console.log("ltFalse: ", ltFalse)
+console.log("ltTrue: ", ltTrue)
+--
+those boolean conditions are great for booleans and numbers 
+but... how do you comapare two strings for equality or lexographic order?
+BONUS if you answer this.. we will cover it in the strings lesson
 ## Functions
 
 - functions are a small block of resuable code
