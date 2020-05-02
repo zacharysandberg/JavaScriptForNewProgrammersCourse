@@ -176,7 +176,7 @@ print(vehicle)
     Assignment 5
     Task:
     
-    Create a function that prints the following information
+    Create a function that prints the following information to the console
     Name: First Name Last Initial
     Hobbie: Favorite Hobby
     Home State:  Home State
