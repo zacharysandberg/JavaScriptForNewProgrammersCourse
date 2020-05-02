@@ -25,6 +25,18 @@ list all files and directories under the current directory
 
 - ls -al 
 
+clear your console
+
+- clear
+
+browse your history
+
+- history
+
+save your history to a file
+
+- history | cat > history2May2020.txt
+
 
 list a detailed list of files and directories in your current directory
 
