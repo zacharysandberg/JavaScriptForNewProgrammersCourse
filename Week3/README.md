@@ -71,8 +71,8 @@ if(string1.localeCompare(string2) > 0)
 ## Arrays
 
 ### basics
-- Arrays are similar to strings becaue they are sequence of "things"
-- Typical array has the same data types in the array
+- Arrays are similar to strings becaue they are sequence of "values"
+- Typical array has the same data types in the array (in JS they can be mixed)
 - Arrays in Javascript keep track of their length (size)
 - JavaScript is not bound to the same data type... but 99% you will use it like that
 
@@ -134,10 +134,12 @@ let myLibrary = [...movies, "Bolt"]
 ## passing arrays around
 - Arrays can be passed to functions as parameters
 - they can also be returned from functions
+
 ```
-function print(stringList){
-    for(let i=0; i < stringList.length; i++){
-        console.log(stringList[i])
+function print(list, header){
+    console.log(`*****${header}*****`)
+    for(let i=0; i < list.length; i++){
+        console.log(list[i])
     }
 }
 
@@ -151,21 +153,48 @@ function reverse(stringList){
     return newList
 }
 
-function reversInPlace(stringList){
-    for(let i=0; i < stringList/2; i++){
+function reverseInPlace(list){
+    for(let i=0; i < list.length/2; i++){
         //swap
-        let temp = newList[i]
-        let newList[i] = newList[string.length-(i+1)]
+        let temp = list[i]
+        list[i] = list[list.length-(i+1)]
+        list[list.length-(i+1)] = temp
     }
 }
 
-let movies = ["The Matrix", "King Kong"]
-print(movies);
-movies = reverse(movies)
-print(movies)
-reverseInPlace(movies)
-print(movies)
+let movies = ["The Matrix", "King Kong", "Terminator"]
+print(movies, "First Print");
 
+movies = reverse(movies)
+print(movies, "After Reverse")
+
+reverseInPlace(movies)
+print(movies, "After Reverse in Place")
+```
+
+- strings are like arrays of other strings except....
+- strings have a length property like an array
+- strings can be looped throug like an array
+- strings elements can't be modified unlike an array
+
+- arrays can hold different types even more arrays
+
+```
+let mySoup = [
+    "carrots", 
+    "water",
+    { name: "spices", ingredients: ["salt", "pepper", "paprika"] },
+    { name: "mixedVeggies", ingredients: ["carrots", "corn", "green beans"] },
+    21
+]
+
+console.log("mySoup[0] " + mySoup[0])
+console.log("mySoup[1] " + mySoup[1])
+console.log("mySoup[2].name " + mySoup[2].name)
+console.log("mySoup[2].ingredients[0] " + mySoup[2].ingredients[0])
+console.log("mySoup[2].ingredients[1] " + mySoup[2].ingredients[1])
+console.log("mySoup[2].ingredients[2] " + mySoup[2].ingredients[2])
+console.log("mySoup[4] " + mySoup[4])
 
 ```
 

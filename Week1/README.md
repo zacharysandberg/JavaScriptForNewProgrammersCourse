@@ -1,3 +1,18 @@
+
+## Expectations
+### Objectives
+### What do I get for completing this course?
+### 5-10 Hours of homework
+### Learning hurts
+### Pop quiz at the beginning of each class
+### What you will learn
+### Why Javascript
+### What else will I need after completing the course
+### Resources - discoord, github repo, codemorsels secure page, book
+### Who can I turn to for help?
+
+## What is JavaScript?
+
 ## Install Visual Studio Code from https://code.visualstudio.com/
 
 - https://code.visualstudio.com/

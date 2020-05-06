@@ -77,10 +77,10 @@ Fernando also has many hours tutoring experience in many programming languages t
 ### 4. Built in functions
 ### 5. Homework
 
-##  Week 4 - Functions and Arrays
+##  Week 4 - Functions (Higher Order) and Arrays
 ### 0. Pop quiz
 ### 1. Higher Order Functions
-### 2. Callbacks - Objects
+### 2. Callbacks - 
 ### 3. Arrow functions
 ### 4. IIFES
 ### 5. Optional parameters 
