@@ -129,33 +129,27 @@ Fernando also has many hours tutoring experience in many programming languages t
 ## Week 8 -- Algorithms
 ### 0. Pop quiz
 ### 1. Sorting
-### 2. Reverse -  Array and String
-### 3. Anagram
-### 4. Palindrome
-### 5. Module export and import
-### 6. Random numbers
+### 2. Random numbers
+### 3. Reverse -  Array and String
+### 4. Anagram
+### 5. Palindrome
+### 6. Avg, Median, Sum, Min, Max
+### 7. Distance between 2 points
+### 8. Sets - Intersection, Union, Difference
+### 9. Convert an array into a set
 
-## Week 9 -- Math and Algoritms
-### 0. Pop quiz
-### 1. Avg, Median, Sum, Min, Max
-### 2. Distance between 2 points
-### 3. Sets - Intersection, Union, Difference
-### 4. Convert an array into a set
-
-## Week 10 -- Creating a node project
+## Week 9 -- Creating a node project
 ### 1. Create
 ### 2. Installing Modules
 ### 3. Importing Modules
-### 4. Homework
+### 4. Module export and import
+### 5. Using fetch
+### 6. Understanding HTTP
+### 7. Using Axios
+### 8. Calling 3 APIs and displaying the results
+### 10. Homework
 
-## Week 11 -- Using (Web) APIs
-### 1. Using fetch
-### 2. Understanding HTTP
-### 3. Using Axios
-### 4. Calling 3 APIs and displaying the results
-### 5. Homework
-
-## Week 12 -- DOM Manipulation 
+## Week 10 -- DOM Manipulation 
 ### 0. Pop quiz
 ### 1. CSS Primer
 ### 2. HTML Primer
@@ -165,14 +159,14 @@ Fernando also has many hours tutoring experience in many programming languages t
 ### 6. Using Java to render data
 ### 7. Homework
 
-## Week 13 -- Capstone Ideas
+## Week 11 -- Capstone Ideas
 ### 0. Pop quiz
 ### 1. Capstone Ideas
 ### 2. Deploy project
 ### 3. Exam Review
 ### 4. Homework Work on Capstone Project (instructions for capstone)
 
-## Week 14 -- Show off capstone to group
+## Week 12 -- Show off capstone to group
 ### 0. Complete Exam
 ### 1. EOC Survey
 ### 2. Show off capstones
