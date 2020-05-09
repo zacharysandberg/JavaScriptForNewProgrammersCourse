@@ -29,6 +29,7 @@
 
 ## What is JavaScript
 - Defacto front end language
+- JavaScript is a dynamic language
 - What is frond end?
 - What is back end?
 - Student Expectations
@@ -67,10 +68,11 @@
 - Learn how to use the contemporary tools of the trade (IDE or Editor, Git, Libraries)
 - Learn uses for JS
 - Learn how to use libraries and frameworks
--
+
 
 # Second Hour
--
+- Windows command uses Disk Operating System (DOS) 
+- Unix and Linux Systems use Bourne Again Shell (BASH) 
 - Command Line Basics
   - why are we talking about the command line?
   - We fear what we do not know!
@@ -82,6 +84,9 @@
   - why BASH and not MS DOS?
   - BASH is a richer utilitie or set of utilities... BASH works on Mac and Linux
 - Most common commands
+  - pwd
+    - displays your full current path
+    - I think it means print working directory *note
   - ls, ls -al
     - lists all your files and directories
   - cd
@@ -111,7 +116,11 @@
 
 # Third hour - Installing Software
 
-
+- 4 products
+- Gow - software for running BASH utilities from windows command line
+- Git - Version Control Software
+- NodeJs - Software for running your JS Code
+- Visual Studio Code (Not the same Visual Studio)
 ## Install Visual Studio Code from https://code.visualstudio.com/
 
 - https://code.visualstudio.com/

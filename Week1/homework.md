@@ -23,5 +23,7 @@ formatting your [homework.md](homework.md) file.
 
 Markdown is a pseudo formatting language that allows you to format your .md files using a minimalist approach
 
+* watch this video on using VS Code
+[https://youtu.be/VqCgcpAypFQ](https://youtu.be/VqCgcpAypFQ)
 
  
