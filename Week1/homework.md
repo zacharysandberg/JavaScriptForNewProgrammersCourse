@@ -1,17 +1,27 @@
-#make sure to complete all tasks in the README.md for this week (Week1)
+## 1. Complete all tasks for week 1
+
+make sure to complete all tasks in the README.md for this week (Week1)
 - Install Node
 - Install Visual Studio Code
 - Install Git
+- Install Gow
+- Create a github account
 - Clone the repository for this course
+- Post your repository in discoord
 
+## 2. Create a new file in your repository
 
-#create a new file to your repository and name it homework.md
--- add  the file and commit it to your forked repository
-Do some research and in the homework describe what JavaScript is
-and what JavaScript programmer salaries are.
+1. create a new file to your repository and name it homework.md
 
-Use the link in te markdown_cheatsheet.md file to help guide your in 
-formatting your homework.md file.
+2. add  the file and commit it to your forked repository
+
+3. Do some research and in the homework.md describe what JavaScript is
+and what JavaScript programmer salaries are. Limit your write up to 100 words or fewer
+
+* Use the link in the [markdown_cheatsheet.md](markdown_cheatsheet.md) file to help guide your in 
+formatting your [homework.md](homework.md) file.
 
 Markdown is a pseudo formatting language that allows you to format your .md files using a minimalist approach
+
+
  

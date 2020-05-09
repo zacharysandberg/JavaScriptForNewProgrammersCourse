@@ -1,4 +1,4 @@
-# Git Cheatshet
+# Git Cheatsheet
 
 ## These commands are what you need to clone a repository
 - git clone [your repository]
