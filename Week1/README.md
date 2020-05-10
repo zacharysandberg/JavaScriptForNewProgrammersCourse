@@ -2,12 +2,25 @@
 ## First Hour
 ---
 - Expectations
+  - Student Expectations
+  - Instructor Expectations
 - Class structure 
     - 20 minutes lecture
     - 20 minutes hands on
     - 10 minutes questions
     - 10 minute break
 - Objectives
+  - fundamentals
+  - taste of programming
+  - learn something new
+  - get an aquired skill
+  - Algorithms
+  - What is an algorithm (recipe)
+  - Start of learning to think like a programmer
+  - Decide if programming is right for you (only you can decide that)
+  - Learn how to use the contemporary tools of the trade (IDE or Editor, Git, Libraries)
+  - Learn uses for JS
+  - Learn how to use libraries and frameworks
 - What do I get for completing this course?
   - certificate of completion
   - passing 70%
@@ -19,7 +32,7 @@
   - class participation   
 - Code Morsels is not accredited
 - 5-10 Hours of homework
-- Learning hurts
+- Learning hurts or at least uncofortable
 - Pop quiz at the beginning of each class
 - What you will learn
 - Why Javascript
@@ -27,18 +40,22 @@
 - Resources - discoord, github repo, codemorsels secure page, book
 - Who can I turn to for help?
 
+
 ## What is JavaScript
 - Defacto front end language
+  - What is frond end?
+  - What is back end?
+- Has no relationship to Java
+- Javascript went from most hated language to most loved and popular
+- Javascript is old but JavaScript was modernized in the HTML5 movement
+- Owes a lot of popularity due to JQuery and the V8 Engine
 - JavaScript is a dynamic language
-- What is frond end?
-- What is back end?
-- Student Expectations
-- Instructor Expectations
-- Objectives
-- Learn fundamentals
-- Career Statistics
+    - not as wordy as a static language (e.g. java, C#, C++)
+    - it is considered a scripting langauge
+    - it is not classy (there is TypeScript which is more like a static langauge)
 - JS is 1 of 5 components
-- 5 Componets are JS, HTML, CSS, Back End, and DB(NoSql, Relational)
+- 5 Components are JS, HTML, CSS, Back End, and DB(NoSql, Relational)
+- JS can also be used on the back end
 
 ## Statistics from Stack Overflow
 - JS Top Programming/Scripting Language
@@ -57,18 +74,6 @@
 - What are the three things to become a good programmer? Practice, Practice, Practice
 - You don't have to be a master to become a professional though
 - You don't need all five components to become a professiona but you need at least fundamentals of the first three (CSS, HTML, JavaScript)
-
-
-## Course Objectives
-- Learn fundamentals of the language (Syntax)
-- Algorithms
-- What is an algorithm (recipe)
-- Start of learning to think like a computer
-- Decide if programming is right for you (only you can decide that)
-- Learn how to use the contemporary tools of the trade (IDE or Editor, Git, Libraries)
-- Learn uses for JS
-- Learn how to use libraries and frameworks
-
 
 # Second Hour
 - Windows command uses Disk Operating System (DOS) 
@@ -110,6 +115,20 @@
   - history > myhistory.txt
   - ./[exectuable file name]
   - clear
+
+- In class assignment
+    - navigate to your home directory
+    - create child folder named mydocs
+    - navigate into that director
+    - create another child folder name child1
+    - create another child folder named child2
+    - in each folder create two files named data.txt
+    - modify the file data.txt by adding a line
+    - rename each data.txt file to data1.txt
+    - navigate into the folder named child1
+    - navigate up to the parent folder
+    - use the history command to view your history
+
 - Most common git commands
   - git itself is a command
   - we study these once we install git  
@@ -163,7 +182,6 @@
 
 ## Fork this repository and then clone it from your repository
 - https://github.com/fernandozamoraj/JavaScriptForNewProgrammersCourse
-
 
 ## Keep your fork up to date by adding an upstream
 - Instructions are here on how to do that https://stefanbauer.me/articles/how-to-keep-your-git-fork-up-to-date 
