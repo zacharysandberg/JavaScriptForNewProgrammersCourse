@@ -17,6 +17,7 @@ This program is designed by me, Fernando Zamora, and it is intended to be taught
 ## Resources
 
 ### JavaScript the Definitive Guide - 7th Edition (not required but recommended)
+I recommend this great book to use as an additional resource for the course.
 ![alt JavaScript the definitive guie](./images/js_book_01.png)
 
 ## About Me
