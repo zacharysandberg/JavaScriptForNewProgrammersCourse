@@ -9,13 +9,22 @@
     - 20 minutes hands on
     - 10 minutes questions
     - 10 minute break
+    - Pop quiz at the beginning of each class except day 1, mid-term, finals day
 - Objectives
   - fundamentals
   - taste of programming
   - learn something new
   - get an aquired skill
   - Algorithms
-  - What is an algorithm (recipe)
+  - What is an algorithm (recipe: PB&J Sandwich)
+  ````
+    gather ingredients
+    gather utensils
+    on a plate place the bread
+    with a butter knife or spoon spread peanut butter on one slice
+    with another clean spoon spread jelly on the other slice
+    join 
+  ````
   - Start of learning to think like a programmer
   - Decide if programming is right for you (only you can decide that)
   - Learn how to use the contemporary tools of the trade (IDE or Editor, Git, Libraries)
@@ -33,7 +42,6 @@
 - Code Morsels is not accredited
 - 5-10 Hours of homework
 - Learning hurts or at least uncofortable
-- Pop quiz at the beginning of each class
 - What you will learn
 - Why Javascript
 - What else will I need after completing the course

@@ -1,14 +1,38 @@
+## Hour 1
+---
 ## Variables - Primitive Types
 - similar to algebra where a variable represents a number
 - except that unlike algebra in most cases the value of our variable the value is known... i.e. we are not solving for the value but 
 instead holding the value so that we can use it
-- variables are the how programs stored data in a computer program
+- variables are the how programs store data in a computer program
 - variables can hold very little data in size or very large
 - in a program a variable can store different data types in memory
+- valid variable names
+   - case sensitive
+   - must start with letter or underscore
+   - characters must be alpha-numeric
+   - should describe the data
+      - firstName
+      - lastName
+      - age
+      - url
+   - do not use reserved words for variable names
+      ```
+       debugger, default, delete, do, else, finally, for, function, if, in, instanceof, new, return, switch, this, throw, try, typeof, var, void, while, and with.
+      ```
+    - avoid future reserved words
+      ```
+        class, const, enum, export, extends, import, and super
+
+        implements, interface, let, package, private, protected, public, static, and yield
+      ```
+
+
+## Data Types
 - JavaScript has 5 different primitive types 
     - number, string, Boolean, null, undefined
     - number examples: 1, 3000, 3.567
-    - string examples: 'John', 'This phrase', '3000', "John", "This", "3000"
+    - string examples: 'John', 'This phrase', '3000', "John", "This", "3000", "3.567"
     - boolean: true, false
     - null
     - undefined:  more about this when we get to objects
@@ -26,7 +50,7 @@ instead holding the value so that we can use it
 - Basic operators are = + - / * %
 - aka assignment addition, subtraction, division, multiplication, modulus
 - Boolean and boolean codition operators are && ||, <, <=, >, >=, !=, == 
-- and, or, greater than, greater than or equal to, lesst than, less than or equal to,
+- and, or, greater than, greater than or equal to, less than, less than or equal to,
   not equal and equal
 - all these operators can work on numbers
 - the addition operator can work on strings to join strings together
@@ -37,7 +61,9 @@ instead holding the value so that we can use it
 ```
  let age = 10
  let firstName = "Joe"
- let sentence  = firstName + " " + age + " years old"
+ let sentence  = firstName + " is " + age + " years old."
+ // in newer versions of JS
+ sentence = `${firstName} is ${age} years old`
 ```
 
 - the sentence above is an example of variables and literals with the addition
@@ -56,7 +82,7 @@ instead holding the value so that we can use it
 
 ```
 -- Example of boolean operators and operations
-
+```
 let t = true
 let f = false
 let t_and_f = t && f
@@ -82,14 +108,20 @@ console.log("eqFalse: ", eqFalse)
 console.log("eqTrue: ", eqTrue)
 console.log("ltFalse: ", ltFalse)
 console.log("ltTrue: ", ltTrue)
+```
 --
 those boolean conditions are great for booleans and numbers 
 but... how do you comapare two strings for equality or lexographic order?
 BONUS if you answer this.. we will cover it in the strings lesson
-## Functions
 
+## Hour 2 - Functions
+---
 - functions are a small block of resuable code
+- they are defined one but can be invoked many times
 - they also serve as abstractions
+    - abstractions are higher level summaries of multiple steps
+    - e.g. getIngredients
+    - e.g. connectToDatabase
 - functions should have verb names (e.g. printReport, translate, filter)
 - function may compute a value and return the result
 - or the may just do some work
@@ -122,6 +154,10 @@ let c = sum(a,b)
 
 - Functions are a way to produce reusable code.... for example 
 we can resuse the function doSomething above like this
+** doSomething is very generic name and bad for that reason
+
+- function names should be verbs when possible
+- variables should be noun
 
 ```
 let sum1 = sum(5,4)
@@ -137,6 +173,23 @@ let fullname = sum("John", "Smith")
 console.log(sum2)
 
 ```
+
+- in newer JavaScript functions can arrow functions
+```
+let sum = (a,b) => a + b;
+let result = sum(5,6);
+
+```
+In the example above the return is implicit because it does not have curly braces ("a body")
+
+```
+let sum = (a,b)={
+    return a + b
+}
+
+let result = sum(5,6);
+```
+In the example above the sum requires a return explicitly because it has curly braces
 
 ## Decisions
 - In order for programs to have any inteligence they must be able
@@ -167,7 +220,8 @@ console.log(sum2)
 - boolean operators ==, ===, <, >, >=, <=, 
 - Condition Join Operators && (AND), || (OR)
  
-## Objects
+## Hour 3 - Objects
+---
 
 Javascript is arguably an object oriented language.  
 
@@ -181,7 +235,7 @@ The data is in the form of properties and methods
 
 Method is a fancy term for a function that belongs to an object.
 
-Example:
+Example of literal object:
 
 ```
 let person = {
@@ -238,7 +292,6 @@ Can you identify the attributes that a FacebookPost or InstagramPost would have?
 
 Let's try it.
 
--testing push
 
 ## Homework
 
