@@ -12,8 +12,8 @@
   - certificate of completion
   - passing 70%
   - exam 40%
-    - midterm 20 questions
-    - final   20 questions
+    - midterm 30 questions
+    - final   30 questions
   - homework 40%
   - quizzes 10% 5 questions each
   - class participation   
@@ -167,6 +167,8 @@
 
 ## Keep your fork up to date by adding an upstream
 - Instructions are here on how to do that https://stefanbauer.me/articles/how-to-keep-your-git-fork-up-to-date 
+
+- Step by step to do it with this repo [howto-keep-remote-updated.md](../Week2/howto-keep-remote-update.md)
 
 ## Run the [helloWorld.js](helloWorld.js) program in Week1 folder
 - node hellowWorld.js
